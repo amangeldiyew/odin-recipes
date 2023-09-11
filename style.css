@@ -1,0 +1,20 @@
+.klas{
+    background-color: #FF88A7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#id {
+    color: #0037ff;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#id2 {
+    background-color: #6eff6e;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
