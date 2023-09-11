@@ -1,20 +1,24 @@
-.klas{
-    background-color: #FF88A7;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
+  margin: 20px;
+  border: 0px;
+  padding: 0px;
+  font-size: 48px;
+  color: white;
+  font-family: Helvetica, sans-serif;
 }
 
-.fontsize {
-    font-size: 24px;
+.box1 {
+  background: rgb(31, 91, 209);
+  margin: 10px;
+  border: 0px;
+  padding: 20px;
+  border: 10px solid gainsboro;
 }
 
-#id {
-    color: #0037ff;
-    font-size: 36px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-#id2 {
-    background-color: #6eff6e;
-    font-weight: bold;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.box2 {
+  background: red;
+  margin: 10px;
+  border: 0px;
+  padding: 20px;
+  border: 10px solid rgba(81, 0, 255, 0.357);
 }
